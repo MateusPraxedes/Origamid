@@ -1,5 +1,5 @@
 import React from 'react'
-import style from './styles.modules.css'
+import styles from './styles.module.css'
 
 const Radio = ({pergunta, options, onChange, value, id, active}) => {
 
